@@ -2,7 +2,7 @@
 
 An interactive dashboard exploring what drives housing affordability in Australia and how rental affordability has changed across Victorian local government areas (LGAs), with a focus on Melbourne, between 2000 and 2024.
 
-**Live app:** coming soon
+**Live app:** https://bellababu.shinyapps.io/housing-affordability/
 
 ## Screenshots
 
